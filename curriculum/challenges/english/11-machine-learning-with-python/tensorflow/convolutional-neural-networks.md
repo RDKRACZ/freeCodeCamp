@@ -3,10 +3,18 @@ id: 5e8f2f13c4cdbe86b5c72d96
 title: Convolutional Neural Networks
 challengeType: 11
 videoId: _1kTP7uoU9E
+bilibiliIds:
+  aid: 805604251
+  bvid: BV1D34y1S7zS
+  cid: 409131358
 dashedName: convolutional-neural-networks
 ---
 
-# --question--
+# --description--
+
+The next few video lessons will reference [this Colab notebook](https://colab.research.google.com/drive/1ZZXnCjFEOkp_KdNcNabd14yok0BAIuwS#forceEdit=true&sandboxMode=true).
+
+# --questions--
 
 ## --text--
 

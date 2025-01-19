@@ -3,10 +3,18 @@ id: 5e8f2f13c4cdbe86b5c72d89
 title: Core Learning Algorithms
 challengeType: 11
 videoId: u5lZURgcWnU
+bilibiliIds:
+  aid: 763034025
+  bvid: BV1A64y1a7g4
+  cid: 409127051
 dashedName: core-learning-algorithms
 ---
 
-# --question--
+# --description--
+
+The next few video lessons will reference [this Colab notebook](https://colab.research.google.com/drive/15Cyy2H7nT40sGR7TBN5wBvgTd57mVKay#forceEdit=true&sandboxMode=true).
+
+# --questions--
 
 ## --text--
 

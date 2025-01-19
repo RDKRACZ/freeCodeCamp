@@ -3,6 +3,10 @@ id: 5e9a093a74c4063ca6f7c159
 title: Pandas Indexing and Conditional Selection
 challengeType: 11
 videoId: '-ZOrgV_aA9A'
+bilibiliIds:
+  aid: 720604139
+  bvid: BV1FQ4y1k7tC
+  cid: 409013650
 dashedName: pandas-indexing-and-conditional-selection
 ---
 
@@ -12,10 +16,10 @@ dashedName: pandas-indexing-and-conditional-selection
 
 More resources:
 
--   [Notebooks on GitHub](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas)
--   [How to open Notebooks from GitHub using Google Colab.](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+-  <a href="https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas" target="_blank" rel="noopener noreferrer nofollow">Notebooks on GitHub</a>
+-  <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb" target="_blank" rel="noopener noreferrer nofollow">How to open Notebooks from GitHub using Google Colab.</a>
 
-# --question--
+# --questions--
 
 ## --text--
 

@@ -3,10 +3,18 @@ id: 5e8f2f13c4cdbe86b5c72d92
 title: Neural Networks with TensorFlow
 challengeType: 11
 videoId: uisdfrNrZW4
+bilibiliIds:
+  aid: 378031840
+  bvid: BV1Qf4y1c7Dc
+  cid: 409129888
 dashedName: neural-networks-with-tensorflow
 ---
 
-# --question--
+# --description--
+
+The next few video lessons will reference [this Colab notebook](https://colab.research.google.com/drive/1m2cg3D1x3j5vrFc-Cu0gMvc48gWyCOuG#forceEdit=true&sandboxMode=true).
+
+# --questions--
 
 ## --text--
 

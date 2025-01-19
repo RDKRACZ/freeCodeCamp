@@ -3,6 +3,10 @@ id: 5e9a093a74c4063ca6f7c15f
 title: Data Cleaning Duplicates
 challengeType: 11
 videoId: kj7QqjXhH6A
+bilibiliIds:
+  aid: 675611672
+  bvid: BV1VU4y1A7tu
+  cid: 409019368
 dashedName: data-cleaning-duplicates
 ---
 
@@ -12,10 +16,10 @@ dashedName: data-cleaning-duplicates
 
 More resources:
 
--   [Notebooks on GitHub](https://github.com/ine-rmotr-curriculum/data-cleaning-rmotr-freecodecamp)
--   [How to open Notebooks from GitHub using Google Colab.](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+-  <a href="https://github.com/ine-rmotr-curriculum/data-cleaning-rmotr-freecodecamp" target="_blank" rel="noopener noreferrer nofollow">Notebooks on GitHub</a>
+-  <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb" target="_blank" rel="noopener noreferrer nofollow">How to open Notebooks from GitHub using Google Colab.</a>
 
-# --question--
+# --questions--
 
 ## --text--
 

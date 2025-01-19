@@ -3,6 +3,10 @@ id: 5e9a093a74c4063ca6f7c157
 title: Numpy Algebra and Size
 challengeType: 11
 videoId: XAT97YLOKD8
+bilibiliIds:
+  aid: 250621433
+  bvid: BV1hv41137uM
+  cid: 409013128
 dashedName: numpy-algebra-and-size
 ---
 
@@ -12,10 +16,10 @@ dashedName: numpy-algebra-and-size
 
 More resources:
 
--   [Notebooks on GitHub](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy)
--   [How to open Notebooks from GitHub using Google Colab.](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+-  <a href="https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy" target="_blank" rel="noopener noreferrer nofollow">Notebooks on GitHub</a>
+-  <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb" target="_blank" rel="noopener noreferrer nofollow">How to open Notebooks from GitHub using Google Colab.</a>
 
-# --question--
+# --questions--
 
 ## --text--
 

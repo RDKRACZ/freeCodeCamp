@@ -3,6 +3,10 @@ id: 5e9a093a74c4063ca6f7c15e
 title: Data Cleaning with DataFrames
 challengeType: 11
 videoId: sTMN_pdI6S0
+bilibiliIds:
+  aid: 505597026
+  bvid: BV1Yg411c7bx
+  cid: 409018948
 dashedName: data-cleaning-with-dataframes
 ---
 
@@ -12,10 +16,10 @@ dashedName: data-cleaning-with-dataframes
 
 More resources:
 
--   [Notebooks on GitHub](https://github.com/ine-rmotr-curriculum/data-cleaning-rmotr-freecodecamp)
--   [How to open Notebooks from GitHub using Google Colab.](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+-  <a href="https://github.com/ine-rmotr-curriculum/data-cleaning-rmotr-freecodecamp" target="_blank" rel="noopener noreferrer nofollow">Notebooks on GitHub</a>
+-  <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb" target="_blank" rel="noopener noreferrer nofollow">How to open Notebooks from GitHub using Google Colab.</a>
 
-# --question--
+# --questions--
 
 ## --text--
 

@@ -3,6 +3,10 @@ id: 5e9a093a74c4063ca6f7c152
 title: Numpy Introduction A
 challengeType: 11
 videoId: P-JjV6GBCmk
+bilibiliIds:
+  aid: 718079611
+  bvid: BV18Q4y1k7om
+  cid: 409007080
 dashedName: numpy-introduction-a
 ---
 
@@ -12,10 +16,10 @@ dashedName: numpy-introduction-a
 
 More resources:
 
--   [Notebooks on GitHub](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy)
--   [How to open Notebooks from GitHub using Google Colab.](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+-  <a href="https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy" target="_blank" rel="noopener noreferrer nofollow">Notebooks on GitHub</a>
+-  <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb" target="_blank" rel="noopener noreferrer nofollow">How to open Notebooks from GitHub using Google Colab.</a>
 
-# --question--
+# --questions--
 
 ## --text--
 

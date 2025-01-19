@@ -3,6 +3,10 @@ id: 5e9a093a74c4063ca6f7c163
 title: Reading Data from Databases
 challengeType: 11
 videoId: MtgXS1MofRw
+bilibiliIds:
+  aid: 890546354
+  bvid: BV1JP4y1h7gk
+  cid: 409020851
 dashedName: reading-data-from-databases
 ---
 
@@ -12,10 +16,10 @@ dashedName: reading-data-from-databases
 
 More resources:
 
--   [Notebooks on GitHub](https://github.com/krishnatray/RDP-Reading-Data-with-Python-and-Pandas)
--   [How to open Notebooks from GitHub using Google Colab.](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+-  <a href="https://github.com/krishnatray/RDP-Reading-Data-with-Python-and-Pandas" target="_blank" rel="noopener noreferrer nofollow">Notebooks on GitHub</a>
+-  <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb" target="_blank" rel="noopener noreferrer nofollow">How to open Notebooks from GitHub using Google Colab.</a>
 
-# --question--
+# --questions--
 
 ## --text--
 

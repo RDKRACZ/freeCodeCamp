@@ -3,10 +3,18 @@ id: 5e8f2f13c4cdbe86b5c72d9b
 title: Natural Language Processing With RNNs
 challengeType: 11
 videoId: ZyCaF5S-lKg
+bilibiliIds:
+  aid: 548105306
+  bvid: BV1nq4y1K7VU
+  cid: 409134745
 dashedName: natural-language-processing-with-rnns
 ---
 
-# --question--
+# --description--
+
+The next few video lessons will reference [this Colab notebook](https://colab.research.google.com/drive/1ysEKrw_LE2jMndo1snrZUh5w87LQsCxk#forceEdit=true&sandboxMode=true).
+
+# --questions--
 
 ## --text--
 

@@ -3,10 +3,14 @@ id: 5e8f2f13c4cdbe86b5c72d8a
 title: 'Core Learning Algorithms: Working with Data'
 challengeType: 11
 videoId: u85IOSsJsPI
+bilibiliIds:
+  aid: 675550447
+  bvid: BV1RU4y1w7up
+  cid: 409127383
 dashedName: core-learning-algorithms-working-with-data
 ---
 
-# --question--
+# --questions--
 
 ## --text--
 
